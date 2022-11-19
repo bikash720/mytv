@@ -32,4 +32,4 @@ echo '#EXTM3U
 
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
 
-720p.m3u8' > master.m3u8
+720p.m3u8'> master.m3u8
